@@ -33,10 +33,10 @@
   },
   {
     "id": 5,
-    "title": 'blog5',
-    "description": 'blog5 Description Data',
+    "title": "blog5",
+    "description": "blog5 Description Data",
     "image":
-      'https://images.unsplash.com/photo-1661956602868-6ae368943878?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80',
-    "metaTitle": 'blog5 Meta Title Data',
+      "https://images.unsplash.com/photo-1661956602868-6ae368943878?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "metaTitle": "blog5 Meta Title Data",
   },
 ]
